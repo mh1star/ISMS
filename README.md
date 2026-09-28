@@ -290,8 +290,7 @@ public/gatsby/
 
 ### الخطوة 2 — هيّئ Git
 
-```bash
-cd D:\iso-27001-isms-dashboard-master\iso-27001-isms-dashboard-master
+
 
 git init
 git add .
@@ -323,9 +322,6 @@ git commit -m "Initial commit: ISO 27001 ISMS Dashboard"
 
 ### الخطوة 5 — ادفع المشروع
 
-```bash
-git branch -M main
-git remote add origin https://github.com/<اسم-حسابك>/iso-27001-isms-dashboard.git
 git push -u origin main
 ```
 
