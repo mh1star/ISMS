@@ -33,18 +33,6 @@
 
 ---
 
-## 📸 لقطات من الأداة
-
-| | | |
-|:--:|:--:|:--:|
-| <img width="400" alt="لوحة التحكم" src="https://github.com/user-attachments/assets/540dbd31-bc45-431b-bd51-a5de1d136c43" /> | <img width="400" alt="الأصول" src="https://github.com/user-attachments/assets/017ae75a-247d-48fe-acc9-cdb4126c9f17" /> | <img width="400" alt="المخاطر" src="https://github.com/user-attachments/assets/36080fe5-4afc-4527-a7c8-d7e28eb7cd6b" /> |
-| لوحة التحكم | الأصول | مصفوفة المخاطر |
-| <img width="400" alt="الحوادث" src="https://github.com/user-attachments/assets/d3af6556-dcfa-44b7-9635-eff22df3d3e0" /> | <img width="400" alt="السياسات" src="https://github.com/user-attachments/assets/f261e2e1-af80-432d-abd2-1182e9a1c34a" /> | <img width="400" alt="الضوابط" src="https://github.com/user-attachments/assets/44469cd4-d98e-448e-9e96-f034b38b4edd" /> |
-| الحوادث | السياسات | الضوابط الأمنية |
-| <img width="400" alt="التدقيقات" src="https://github.com/user-attachments/assets/f8e7a7c6-5ed7-4740-ad43-841c6b9c81cb" /> | <img width="400" alt="التقارير" src="https://github.com/user-attachments/assets/7a91bbad-19d5-49b3-b210-e4b9cfad317c" /> | |
-
----
-
 ## ⚡ التشغيل السريع
 
 ### الطريقة الأسرع — بنقرة واحدة
@@ -59,7 +47,7 @@
 
 ```bash
 # 1) انتقل إلى مجلد المشروع
-cd D:\iso-27001-isms-dashboard-master\iso-27001-isms-dashboard-master
+
 
 # 2) ثبّت الاعتماديات (مرة واحدة فقط)
 npm install
